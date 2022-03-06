@@ -1,12 +1,15 @@
-## Welcome to Aivan's GitHub Pages
+## Welcome to Aivan's Life Story
 
-Owned by Aivan Matthew C. Arevalo You can use the [editor on GitHub](https://github.com/saltedspice/saltedspice.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Owned by Aivan Matthew C. Arevalo .
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This website is dedicated for my bibliography, basically a place where I can share my life's story and how things were and how things are today in the present.
 
-### Markdown
+### My Bibliography
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I was born on August 1, 2006. It was a rainy midnight in Naga City when my mother, Aileen C. Arevalo, gave birth to me while my father, Mervyn B. Arevalo was by her side. So everytime that my birthday comes it would always rain. I even remember asking my mother why it always rained when my birthday comes, and that's when she told me that I was born while it was raining, until now not a single birthday has passed where it hasn't rained. Anyway I have an older sister, Bien Gabrielle C. Arevalo. She is three years older than me yet we were both born on August 1. It's kind of ironic that we're not twins, maybe if we were twins we wouldn't tease eachother this much. We're a small family but a happy one. I live in the province of Camarines Sur, Iriga City. When I was a boy, we were just living in a small house made of wood or refered in the Philippines as "kubo". We didn't have much but atleast we never got hungry and we were happy living simply.
+
+![alt text](https://media.istockphoto.com/vectors/happy-family-with-house-concept-illustration-for-mortgage-buying-vector-id1171898735?k=20&m=1171898735&s=612x612&w=0&h=Uwnf13ZldtTje382LAUUGtUqaKMCw_fiSim2yWQkL6o=)
+
 
 ```markdown
 Syntax highlighted code block
